@@ -10,14 +10,14 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!| Concluído ✅ | https://www.dio.me/certificate/L0TQ82FY/share |
 | Versionamento de Código com Git e GitHub | Concluído ✅ | https://www.dio.me/certificate/3HJHV02C/share |
 | Desafios de Projetos: Crie Um Portfólio Vencedor | Concluído ✅ | https://www.dio.me/certificate/CEOTRIVT/share |
-| Contribuindo em um Projeto Open Source no GitHub | Concluído ✅ | - |
+| Contribuindo em um Projeto Open Source no GitHub | Concluído ✅ | https://www.dio.me/certificate/SIYO7BVB/share |
 
 
 ## Introdução à Ciência de Dados com Python
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
-| Ambiente de Desenvolvimento e Primeiros Passos com Python | Concluído ✅ |  |
-| Conhecendo a Linguagem de Programação Python | Em Andamento 🚧 |  |
+| Ambiente de Desenvolvimento e Primeiros Passos com Python | Concluído ✅ | https://www.dio.me/certificate/FKAP2Z98/share |
+| Conhecendo a Linguagem de Programação Python | Concluído ✅ | https://www.dio.me/certificate/VNTURWQF/share |
 | Tipos de Operadores com Python | Em Andamento 🚧 |  |
 | Estruturas Condicionais e de Repetição em Python | Em Andamento 🚧 |  |
 | Manipulando Strings com Python | Em Andamento 🚧 |  |
