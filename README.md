@@ -20,7 +20,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Conhecendo a Linguagem de Programação Python | Concluído ✅ | https://www.dio.me/certificate/VNTURWQF/share |
 | Tipos de Operadores com Python | Concluído ✅ | https://www.dio.me/certificate/WQFYQMNI/share |
 | Estruturas Condicionais e de Repetição em Python | Concluído ✅ | https://www.dio.me/certificate/V0BJL3PK/share |
-| Manipulando Strings com Python | Em Andamento 🚧 |  |
+| Manipulando Strings com Python | Concluído ✅ | https://www.dio.me/certificate/9NUWMIDV/share |
 | Trabalhando com Listas em Python | Em Andamento 🚧 |  |
 | Conhecendo Tuplas em Python | Em Andamento 🚧 |  |
 | Explorando Conjuntos em Python | Em Andamento 🚧 |  |
