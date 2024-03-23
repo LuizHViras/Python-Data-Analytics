@@ -4,7 +4,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 
 **Status:** Em Andamento 🚧
 
-## Princípios de Desenvolvimento de Software Colaborativo
+## Princípios de Desenvolvimento de Software Colaborativo - Concluído ✅
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!| Concluído ✅ | https://www.dio.me/certificate/L0TQ82FY/share |
@@ -13,7 +13,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Contribuindo em um Projeto Open Source no GitHub | Concluído ✅ | https://www.dio.me/certificate/SIYO7BVB/share |
 
 
-## Introdução à Ciência de Dados com Python
+## Introdução à Ciência de Dados com Python - Concluído ✅
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Ambiente de Desenvolvimento e Primeiros Passos com Python | Concluído ✅ | https://www.dio.me/certificate/FKAP2Z98/share |
@@ -23,19 +23,19 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Manipulando Strings com Python | Concluído ✅ | https://www.dio.me/certificate/9NUWMIDV/share |
 | Trabalhando com Listas em Python | Concluído ✅ | https://www.dio.me/certificate/DIXGGIIK/share |
 | Conhecendo Tuplas em Python | Concluído ✅ | https://www.dio.me/certificate/LMMCWUNP/share |
-| Explorando Conjuntos em Python | Em Andamento 🚧 |  |
-| Aprendendo a Utilizar Dicionários em Python | Em Andamento 🚧 |  |
-| Dominando Funções Python | Em Andamento 🚧 |  |
-| Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional | Em Andamento 🚧 |  |
-| Desafios de Código SQUADIO - Iniciante | Em Andamento 🚧 |  |
+| Explorando Conjuntos em Python | Concluído ✅ | https://www.dio.me/certificate/GG7B644N/share |
+| Aprendendo a Utilizar Dicionários em Python | Concluído ✅ | https://www.dio.me/certificate/FNZPMRTK/share |
+| Dominando Funções Python | Concluído ✅ | https://www.dio.me/certificate/G3QLUUMA/share |
+| Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional | Concluído ✅ | https://www.dio.me/certificate/OTYZAISH/share |
+| Desafios de Código SQUADIO - Iniciante | Concluído ✅ | - |
 
-## Primeiros Passos em SQL e NoSQL
+## Primeiros Passos em SQL e NoSQL - Em Andamento 🚧
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Introdução a Banco de Dados Relacionais (SQL) | Em Andamento 🚧 |  |
 | Introdução a Banco de Dados NoSQL | Em Andamento 🚧 |  |
 
-## Visualização e Análise de Dados com Power BI
+## Visualização e Análise de Dados com Power BI - Em Andamento 🚧
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Fundamentos de Business Intelligence (BI) | Em Andamento 🚧 |  |
@@ -51,7 +51,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Processando e Transformando Dados com Power BI | Em Andamento 🚧 |  |
 | Desafios de Código SQUADIO - Intermediário | Em Andamento 🚧 |  |
 
-## Fundamentos e Técnicas de Machine Learning
+## Fundamentos e Técnicas de Machine Learning - Em Andamento 🚧
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Introdução ao Machine Learning | Em Andamento 🚧 |  |
