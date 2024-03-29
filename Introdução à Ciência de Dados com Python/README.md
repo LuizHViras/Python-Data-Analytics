@@ -3,7 +3,7 @@
 Tópicos abordados:
 - Tipos de Variáveis;
 
-- Operadores
+- Operadores;
 	- Operadres Aritiméticos;
 	- Operadores de Comparação;
 	- Operadores de Atribuição;
@@ -24,10 +24,10 @@ Tópicos abordados:
 	- Interpolação;
 	- Fatiamento.
 
-- Listas e Tuplas
+- Listas e Tuplas;
 
-- Conjuntos
+- Conjuntos;
 
-- Dicionários
+- Dicionários;
 
-- Funções
+- Funções.
