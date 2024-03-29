@@ -32,7 +32,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 ## Primeiros Passos em SQL e NoSQL - Em Andamento 🚧
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
-| Introdução a Banco de Dados Relacionais (SQL) | Em Andamento 🚧 |  |
+| Introdução a Banco de Dados Relacionais (SQL) | Concluído ✅ | https://www.dio.me/certificate/NKBWQOB5/share |
 | Introdução a Banco de Dados NoSQL | Em Andamento 🚧 |  |
 
 ## Visualização e Análise de Dados com Power BI - Em Andamento 🚧
