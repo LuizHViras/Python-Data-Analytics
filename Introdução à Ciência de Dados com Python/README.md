@@ -29,5 +29,4 @@ Tópicos abordados:
 - Conjuntos;
 
 - Dicionários;
-
 - Funções.

@@ -18,5 +18,4 @@ Tópicos abordados:
 	- Normalização de Dados;
 
 	- Junções e Subconjuntos;
-
 	- Funções Agregadas e Agrupamentos de Resultados.
