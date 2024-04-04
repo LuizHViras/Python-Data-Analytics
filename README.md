@@ -29,11 +29,11 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional | Concluído ✅ | https://www.dio.me/certificate/OTYZAISH/share |
 | Desafios de Código SQUADIO - Iniciante | Concluído ✅ | - |
 
-## Primeiros Passos em SQL e NoSQL - Em Andamento 🚧
+## Primeiros Passos em SQL e NoSQL - Concluído ✅
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Introdução a Banco de Dados Relacionais (SQL) | Concluído ✅ | https://www.dio.me/certificate/NKBWQOB5/share |
-| Introdução a Banco de Dados NoSQL | Em Andamento 🚧 |  |
+| Introdução a Banco de Dados NoSQL | Concluído ✅ | https://www.dio.me/certificate/GLAZDTWG/share |
 
 ## Visualização e Análise de Dados com Power BI - Em Andamento 🚧
 | Módulo | Status | Certificado |
