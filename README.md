@@ -38,7 +38,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 ## Visualização e Análise de Dados com Power BI - Em Andamento 🚧
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
-| Fundamentos de Business Intelligence (BI) | Em Andamento 🚧 |  |
+| Fundamentos de Business Intelligence (BI) | Concluído ✅ | https://www.dio.me/certificate/UJEEFMCX/share |
 | Introdução a Análise de Dados com SQL | Em Andamento 🚧 |  |
 | Fundamentos Teóricos Sobre ETL | Em Andamento 🚧 |  |
 | Primeiros Passos com Power BI | Em Andamento 🚧 |  |
