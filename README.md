@@ -39,9 +39,9 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Fundamentos de Business Intelligence (BI) | Concluído ✅ | https://www.dio.me/certificate/UJEEFMCX/share |
-| Introdução a Análise de Dados com SQL | Em Andamento 🚧 |  |
-| Fundamentos Teóricos Sobre ETL | Em Andamento 🚧 |  |
-| Primeiros Passos com Power BI | Em Andamento 🚧 |  |
+| Introdução a Análise de Dados com SQL | Concluído ✅ | https://www.dio.me/certificate/TNZS1FIG/share |
+| Fundamentos Teóricos Sobre ETL | Concluído ✅ | https://www.dio.me/certificate/CYRIR2BC/share |
+| Primeiros Passos com Power BI | Concluído ✅ | https://www.dio.me/certificate/1XEO9V7V/share |
 | Trabalhando com Visuais no Power BI | Em Andamento 🚧 |  |
 | Fundamentos de BI: KPIs e Métricas | Em Andamento 🚧 |  |
 | Criando Dashboard Interativos com Power BI | Em Andamento 🚧 |  |
