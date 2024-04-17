@@ -42,10 +42,10 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Introdução a Análise de Dados com SQL | Concluído ✅ | https://www.dio.me/certificate/TNZS1FIG/share |
 | Fundamentos Teóricos Sobre ETL | Concluído ✅ | https://www.dio.me/certificate/CYRIR2BC/share |
 | Primeiros Passos com Power BI | Concluído ✅ | https://www.dio.me/certificate/1XEO9V7V/share |
-| Trabalhando com Visuais no Power BI | Em Andamento 🚧 |  |
-| Fundamentos de BI: KPIs e Métricas | Em Andamento 🚧 |  |
-| Criando Dashboard Interativos com Power BI | Em Andamento 🚧 |  |
-| Criando um Relatório de Vendas Elegante com Power BI | Em Andamento 🚧 |  |
+| Trabalhando com Visuais no Power BI | Concluído ✅ | https://www.dio.me/certificate/QL2LZX8V/share |
+| Fundamentos de BI: KPIs e Métricas | Concluído ✅ | https://www.dio.me/certificate/B8HWEGYQ/share |
+| Criando Dashboard Interativos com Power BI | Concluído ✅ | https://www.dio.me/certificate/ZXEBD6XL/share |
+| Criando um Relatório de Vendas Elegante com Power BI | Concluído ✅ | https://www.dio.me/certificate/WK1LUAH1/share |
 | Coleta e Extração de Dados com Power BI | Em Andamento 🚧 |  |
 | Limpeza e Transformação de Dados com Power BI | Em Andamento 🚧 |  |
 | Processando e Transformando Dados com Power BI | Em Andamento 🚧 |  |
