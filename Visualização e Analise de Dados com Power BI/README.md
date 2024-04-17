@@ -28,3 +28,11 @@ Tópicos abordados:
 	- Dispersão,
 	- Treemaps,
 	- Gráficos de cascata.
+
+- Fundamentos de KPIs e Métricas;
+
+- Criação de Dashboards Interativos;
+
+- Coleta e Extração de Dados;
+
+- Limpeza e Transformação de Dados.
