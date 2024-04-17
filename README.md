@@ -46,7 +46,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Fundamentos de BI: KPIs e Métricas | Concluído ✅ | https://www.dio.me/certificate/B8HWEGYQ/share |
 | Criando Dashboard Interativos com Power BI | Concluído ✅ | https://www.dio.me/certificate/ZXEBD6XL/share |
 | Criando um Relatório de Vendas Elegante com Power BI | Concluído ✅ | https://www.dio.me/certificate/WK1LUAH1/share |
-| Coleta e Extração de Dados com Power BI | Em Andamento 🚧 |  |
+| Coleta e Extração de Dados com Power BI | Concluído ✅ | https://www.dio.me/certificate/XCXUKQGS/share |
 | Limpeza e Transformação de Dados com Power BI | Em Andamento 🚧 |  |
 | Processando e Transformando Dados com Power BI | Em Andamento 🚧 |  |
 | Desafios de Código SQUADIO - Intermediário | Em Andamento 🚧 |  |
