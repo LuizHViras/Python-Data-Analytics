@@ -1,8 +1,16 @@
 # Bootcamp Python Data Analytics
-
 Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Python Data Analytics da Digital Innovation One✅📚
 
 **Status:** Em Andamento 🚧
+
+## Detalhes do bootcamp
+Num mundo data-driven quem sabe manipular e apresentar dados comanda!
+
+Participe do bootcamp Coding The Future Squadio - Python Data Analytics e aprenda a manipular, gerenciar e apresentar grandes massas de dados através de habilidades práticas para construir dashboards funcionais.
+
+Aprenda o processo de instalação, conceitos de funções Python e os seus principais comandos, dê os primeiros passos em noções importantes de base de dados relacionais e não relacionais (SQL e noSQL) e aprenda a integrar esse conhecimento ao Power BI, uma poderosa ferramenta de tratamento e visualização de dados.
+
+Nesta trilha, você vai desenvolver suas habilidades com projetos práticos, desafios de códigos e mentorias com experts da DIO e, além disso, ficará disponível na Talent Match para tech recrutadores de empresas parceiras que procuram profissionais com esse perfil.
 
 ## Princípios de Desenvolvimento de Software Colaborativo - Concluído ✅
 | Módulo | Status | Certificado |
