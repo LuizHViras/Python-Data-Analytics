@@ -35,7 +35,7 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Introdução a Banco de Dados Relacionais (SQL) | Concluído ✅ | https://www.dio.me/certificate/NKBWQOB5/share |
 | Introdução a Banco de Dados NoSQL | Concluído ✅ | https://www.dio.me/certificate/GLAZDTWG/share |
 
-## Visualização e Análise de Dados com Power BI - Em Andamento 🚧
+## Visualização e Análise de Dados com Power BI - Concluído ✅
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Fundamentos de Business Intelligence (BI) | Concluído ✅ | https://www.dio.me/certificate/UJEEFMCX/share |
@@ -47,9 +47,9 @@ Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Py
 | Criando Dashboard Interativos com Power BI | Concluído ✅ | https://www.dio.me/certificate/ZXEBD6XL/share |
 | Criando um Relatório de Vendas Elegante com Power BI | Concluído ✅ | https://www.dio.me/certificate/WK1LUAH1/share |
 | Coleta e Extração de Dados com Power BI | Concluído ✅ | https://www.dio.me/certificate/XCXUKQGS/share |
-| Limpeza e Transformação de Dados com Power BI | Em Andamento 🚧 |  |
-| Processando e Transformando Dados com Power BI | Em Andamento 🚧 |  |
-| Desafios de Código SQUADIO - Intermediário | Em Andamento 🚧 |  |
+| Limpeza e Transformação de Dados com Power BI | Concluído ✅ | https://www.dio.me/certificate/US87LHRI/share |
+| Processando e Transformando Dados com Power BI | Concluído ✅ | https://www.dio.me/certificate/XNNLE0LZ/share |
+| Desafios de Código SQUADIO - Intermediário | Concluído ✅ | - |
 
 ## Fundamentos e Técnicas de Machine Learning - Em Andamento 🚧
 | Módulo | Status | Certificado |
