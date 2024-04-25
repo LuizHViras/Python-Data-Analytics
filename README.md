@@ -62,9 +62,9 @@ Nesta trilha, você vai desenvolver suas habilidades com projetos práticos, des
 ## Fundamentos e Técnicas de Machine Learning - Em Andamento 🚧
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
-| Introdução ao Machine Learning | Em Andamento 🚧 |  |
-| Métodos de Machine Learning Bioinspirados | Em Andamento 🚧 |  |
-| Redes Neurais Artificiais | Em Andamento 🚧 |  |
+| Introdução ao Machine Learning | Concluído ✅ | https://www.dio.me/certificate/BQV9VTSG/share |
+| Métodos de Machine Learning Bioinspirados | Concluído ✅ | https://www.dio.me/certificate/HLHJA2M3/share |
+| Redes Neurais Artificiais | Concluído ✅ | https://www.dio.me/certificate/MXHQDZKE/share |
 | Algoritmos Genéticos | Em Andamento 🚧 |  |
 | Algoritmos de SVM (Support Vector Machine) | Em Andamento 🚧 |  |
 | Classificação de Problemas: Explorando Datasets | Em Andamento 🚧 |  |
