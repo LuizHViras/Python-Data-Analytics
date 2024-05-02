@@ -65,9 +65,9 @@ Nesta trilha, você vai desenvolver suas habilidades com projetos práticos, des
 | Introdução ao Machine Learning | Concluído ✅ | https://www.dio.me/certificate/BQV9VTSG/share |
 | Métodos de Machine Learning Bioinspirados | Concluído ✅ | https://www.dio.me/certificate/HLHJA2M3/share |
 | Redes Neurais Artificiais | Concluído ✅ | https://www.dio.me/certificate/MXHQDZKE/share |
-| Algoritmos Genéticos | Em Andamento 🚧 |  |
-| Algoritmos de SVM (Support Vector Machine) | Em Andamento 🚧 |  |
-| Classificação de Problemas: Explorando Datasets | Em Andamento 🚧 |  |
-| Linguagens de Programação para Machine Learning | Em Andamento 🚧 |  |
+| Algoritmos Genéticos | Concluído ✅ | https://www.dio.me/certificate/B73RXFMM/share |
+| Algoritmos de SVM (Support Vector Machine) | Concluído ✅ | https://www.dio.me/certificate/TPNCUBTG/share |
+| Classificação de Problemas: Explorando Datasets | Concluído ✅ | https://www.dio.me/certificate/US6LIYOM/share |
+| Linguagens de Programação para Machine Learning | Concluído ✅ | https://www.dio.me/certificate/EKYICVE9/share |
 | Python para Machine Learning na Prática | Em Andamento 🚧 |  |
 | Desafios de Código SQUADIO - Intermediário ll | Em Andamento 🚧 |  |
