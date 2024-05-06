@@ -1,7 +1,7 @@
 # Bootcamp Python Data Analytics
 Nesse repositório estão todos os exercícios, testes e desafios do bootcamp Python Data Analytics da Digital Innovation One✅📚
 
-**Status:** Em Andamento 🚧
+**Status:** Concluído ✅ | https://www.dio.me/certificate/E5KEMUBG/share
 
 ## Detalhes do bootcamp
 Num mundo data-driven quem sabe manipular e apresentar dados comanda!
@@ -59,7 +59,7 @@ Nesta trilha, você vai desenvolver suas habilidades com projetos práticos, des
 | Processando e Transformando Dados com Power BI | Concluído ✅ | https://www.dio.me/certificate/XNNLE0LZ/share |
 | Desafios de Código SQUADIO - Intermediário | Concluído ✅ | - |
 
-## Fundamentos e Técnicas de Machine Learning - Em Andamento 🚧
+## Fundamentos e Técnicas de Machine Learning - Concluído ✅
 | Módulo | Status | Certificado |
 | ------ | ------ | ----------- |
 | Introdução ao Machine Learning | Concluído ✅ | https://www.dio.me/certificate/BQV9VTSG/share |
@@ -69,5 +69,5 @@ Nesta trilha, você vai desenvolver suas habilidades com projetos práticos, des
 | Algoritmos de SVM (Support Vector Machine) | Concluído ✅ | https://www.dio.me/certificate/TPNCUBTG/share |
 | Classificação de Problemas: Explorando Datasets | Concluído ✅ | https://www.dio.me/certificate/US6LIYOM/share |
 | Linguagens de Programação para Machine Learning | Concluído ✅ | https://www.dio.me/certificate/EKYICVE9/share |
-| Python para Machine Learning na Prática | Em Andamento 🚧 |  |
-| Desafios de Código SQUADIO - Intermediário ll | Em Andamento 🚧 |  |
+| Python para Machine Learning na Prática | Concluído ✅ | https://www.dio.me/certificate/9HCX2UGS/share |
+| Desafios de Código SQUADIO - Intermediário ll | Concluído ✅ | - |
